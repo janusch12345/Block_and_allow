@@ -48,4 +48,5 @@
 @@||windows.net^
 @@||www.britannica.com^
 @@||zooplus.de^
-@@rlp.de|^
+@@||rlp.de^
+@@||orthografietrainer.net^
