@@ -54,3 +54,4 @@
 @@||aufgabenfuchs.de^
 @@||nytimes.com^
 @@||scratch.mit.edu^
+@@||worksheetcrafter.com^
