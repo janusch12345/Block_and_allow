@@ -55,3 +55,4 @@
 @@||nytimes.com^
 @@||scratch.mit.edu^
 @@||worksheetcrafter.com^
+@@||schoolcraft.de^
