@@ -58,3 +58,4 @@
 @@||schoolcraft.de^
 @@||wsgo.app^
 @@||europa.eu^
+@@||funduino.de^
