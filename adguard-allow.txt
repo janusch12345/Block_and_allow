@@ -56,3 +56,4 @@
 @@||scratch.mit.edu^
 @@||worksheetcrafter.com^
 @@||schoolcraft.de^
+@@||wsgo.app^
