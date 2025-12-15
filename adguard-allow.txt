@@ -73,3 +73,5 @@
 @@||sofatutor.com^
 @@||worksheetcrafter.net^
 @@||fairtrade-schools.de^
+@@||schoolfox.app^
+@@||schoolfox.com^
