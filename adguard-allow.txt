@@ -76,3 +76,4 @@
 @@||schoolfox.app^
 @@||schoolfox.com^
 @@||foxeducation.com^
+@@||cricut.com^
