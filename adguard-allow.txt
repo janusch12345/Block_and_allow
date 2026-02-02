@@ -84,4 +84,7 @@
 @@||de.mail.yahoo.com^
 @@||vpn.caritas-mainz.de^
 @@||ui.com^
+@@||schlaukopf.de^
 @@||untis.at^
+@@||kinderzeitmaschine.de^
+@@||maxklug.de^
