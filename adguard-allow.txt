@@ -88,3 +88,4 @@
 @@||untis.at^
 @@||kinderzeitmaschine.de^
 @@||maxklug.de^
+@@||cloudimg.io^
