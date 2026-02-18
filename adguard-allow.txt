@@ -92,3 +92,4 @@
 @@||ghcr.io^
 @@||scalingo.io^
 @@||fobizz.com^
+@@||blackteamotorbikes.com^
