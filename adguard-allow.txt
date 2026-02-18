@@ -90,3 +90,5 @@
 @@||maxklug.de^
 @@||cloudimg.io^
 @@||ghcr.io^
+@@||scalingo.io^
+@@||fobizz.com^
