@@ -89,3 +89,4 @@
 @@||kinderzeitmaschine.de^
 @@||maxklug.de^
 @@||cloudimg.io^
+@@||ghcr.io^
