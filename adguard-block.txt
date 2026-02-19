@@ -613271,3 +613271,4 @@
 ||.smclub.info^
 ||.xxlib.com^
 ||*.ru^
+||freedom.gov^
