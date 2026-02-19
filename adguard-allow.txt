@@ -108,3 +108,4 @@
 @@||googleapis.com^
 @@||gstatic.com^
 @@||servicebus.windows.net^
+@@||boehringer.com^
