@@ -110,4 +110,5 @@
 @@||servicebus.windows.net^
 @@||boehringer.com^
 @@||bambulab.com^
+@@||.bambulab.com^
 
