@@ -109,3 +109,5 @@
 @@||gstatic.com^
 @@||servicebus.windows.net^
 @@||boehringer.com^
+@@||bambulab.com^
+
