@@ -111,4 +111,8 @@
 @@||boehringer.com^
 @@||bambulab.com^
 @@||.bambulab.com^
+@@||bambulab.cn^
+@@||bblmw.com^
+@@||.bambulab.cn^
+@@||.bblmw.com^
 
