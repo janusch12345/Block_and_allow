@@ -613271,4 +613271,9 @@
 ||.smclub.info^
 ||.xxlib.com^
 ||*.ru^
-||freedom.gov^
+||.freedom.gov^
+||.freevpnapp.co.uk^
+||.togglevpn.org^
+||.vpntoggle.com^
+||.foxsafevpn.com^
+||.dovevpn.net^
