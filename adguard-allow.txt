@@ -120,4 +120,6 @@
 @@||.ppq.apple.com^
 @@||.quamath.de^
 @@||.quamath-lms.de^
+@@||quamath.de^
+@@||quamath-lms.de^
 
