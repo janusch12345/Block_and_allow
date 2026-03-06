@@ -613277,3 +613277,6 @@
 ||.vpntoggle.com^
 ||.foxsafevpn.com^
 ||.dovevpn.net^
+||candyai.com^
+||candyai.com.cdn.hstgr.net^
+||candyai.gg^
