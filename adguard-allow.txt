@@ -124,3 +124,9 @@
 @@||quamath-lms.de^
 @@||rlp.net^
 @@||.rlp.net^
+@@||luisenpark.de^
+@@||starenkasten-lindenfels.de^
+@@||klicksafe.de^
+@@||.luisenpark.de^
+@@||.starenkasten-lindenfels.de^
+@@||.klicksafe.de^
