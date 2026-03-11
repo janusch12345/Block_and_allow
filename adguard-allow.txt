@@ -130,3 +130,7 @@
 @@||.luisenpark.de^
 @@||.starenkasten-lindenfels.de^
 @@||.klicksafe.de^
+@@||geoguessr.com^
+@@||geographie-quiz.de^
+@@||.geoguessr.com^
+@@||.geographie-quiz.de^
