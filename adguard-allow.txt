@@ -134,3 +134,6 @@
 @@||geographie-quiz.de^
 @@||.geoguessr.com^
 @@||.geographie-quiz.de^
+@@||krautreporter.gumlet.io^
+@@||krautreporter.de^
+@@||.krautreporter.de^
