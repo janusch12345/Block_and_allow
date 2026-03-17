@@ -137,3 +137,15 @@
 @@||krautreporter.gumlet.io^
 @@||krautreporter.de^
 @@||.krautreporter.de^
+@@||Ideenreise-Blog.de^
+@@||Planet-schule.de^
+@@||Planet-beruf.de^
+@@||luisenpark.de^
+@@||starenkasten-lindenfels.de^
+@@||klicksafe.de^
+@@||.Ideenreise-Blog.de^
+@@||.Planet-schule.de^
+@@||.Planet-beruf.de^
+@@||.luisenpark.de^
+@@||.starenkasten-lindenfels.de^
+@@||.klicksafe.de^
