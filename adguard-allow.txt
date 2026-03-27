@@ -160,3 +160,9 @@
 @@||.o-mathe.de^
 @@||.mathe-seite.de^
 @@||.mathematik-oberstufe.de^
+@@||ftapi.com^
+@@||hipp.de^
+@@||stayinformed.de^
+@@||.ftapi.com^
+@@||.hipp.de^
+@@||.stayinformed.de^
