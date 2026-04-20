@@ -174,3 +174,9 @@
 @@||.appinventor.mit.edu^
 @@||.mit.edu^
 @@||.deutschlandfunkkultur.de^
+@@||.esitronic.com^
+@@||.bosch.com^
+@@||.esitronic.de^
+@@||esitronic.com^
+@@||bosch.com^
+@@||esitronic.de^
