@@ -168,3 +168,9 @@
 @@||.stayinformed.de^
 @@||.1passwordservices.com^
 @@||1passwordservices.com^
+@@||appinventor.mit.edu^
+@@||mit.edu^
+@@||deutschlandfunkkultur.de^
+@@||.appinventor.mit.edu^
+@@||.mit.edu^
+@@||.deutschlandfunkkultur.de^
