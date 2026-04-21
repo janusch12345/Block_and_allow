@@ -197,4 +197,8 @@
 @@||.online-repair-info.com^
 @@||.dot.gov^
 @@||bosch.de^
-@@||.bosch.de
+@@||.bosch.de^
+@@||boschdiagnostics.net^
+@@||bosch-esitronic.com^
+@@||.boschdiagnostics.net^
+@@||.bosch-esitronic.com^
