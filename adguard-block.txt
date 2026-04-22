@@ -613280,3 +613280,4 @@
 ||candyai.com^
 ||candyai.com.cdn.hstgr.net^
 ||candyai.gg^
+||azoramoon.com^
