@@ -613281,3 +613281,5 @@
 ||candyai.com.cdn.hstgr.net^
 ||candyai.gg^
 ||azoramoon.com^
+||*67speed*
+||*67quick*
