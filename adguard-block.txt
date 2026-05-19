@@ -613284,3 +613284,7 @@
 ||*67speed*
 ||*67quick*
 ||*shadowbox*
+||.knowunity.lumaserv.app^
+||knowunity.lumaserv.app^
+||knowunity.com^
+||.knowunity.com^
