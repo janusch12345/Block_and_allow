@@ -613288,3 +613288,5 @@
 ||knowunity.lumaserv.app^
 ||knowunity.com^
 ||.knowunity.com^
+||.knowunity.de^
+||knowunity.de^
