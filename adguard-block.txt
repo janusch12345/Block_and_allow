@@ -613302,3 +613302,5 @@
 ||*omegla*^
 ||ftf.live^
 ||.ftf.live^
+||*chatroulette*^
+||*chatrandom*^
