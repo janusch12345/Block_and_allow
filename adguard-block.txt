@@ -613290,3 +613290,4 @@
 ||.knowunity.com^
 ||.knowunity.de^
 ||knowunity.de^
+||*omegle*
