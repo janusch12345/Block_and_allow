@@ -613300,3 +613300,5 @@
 ||brainplay.com^
 ||.brainplay.com^
 ||*omegla*^
+||ftf.live^
+||.ftf.live^
