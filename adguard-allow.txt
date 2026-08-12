@@ -212,3 +212,5 @@
 @@||sol.igs-ingelheim.de^
 @@||userpxt.io^
 @@||.userpxt.io^
+@@||.visualstudio.com^
+@@||visualstudio.com^
