@@ -214,3 +214,5 @@
 @@||.userpxt.io^
 @@||.visualstudio.com^
 @@||visualstudio.com^
+@@||basics-mathematik.de^
+@@||.basics-mathematik.de^
