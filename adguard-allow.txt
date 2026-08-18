@@ -222,3 +222,5 @@
 @@||.online-mathebuch.de^
 @@||.instantmathe.de^
 @@||https://basics-mathematik.de^
+@@||butlerapp2.de^
+@@||.butlerapp2.de^
