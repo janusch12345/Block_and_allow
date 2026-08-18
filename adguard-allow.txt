@@ -216,3 +216,8 @@
 @@||visualstudio.com^
 @@||basics-mathematik.de^
 @@||.basics-mathematik.de^
+@@||instantmathe.de^
+@@||matheater.wordpress.com^
+@@||online-mathebuch.de^
+@@||.online-mathebuch.de^
+@@||.instantmathe.de^
