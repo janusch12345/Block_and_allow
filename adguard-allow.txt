@@ -221,3 +221,4 @@
 @@||online-mathebuch.de^
 @@||.online-mathebuch.de^
 @@||.instantmathe.de^
+@@||https://basics-mathematik.de^
