@@ -226,3 +226,5 @@
 @@||.butlerapp2.de^
 @@||.classtime.com^
 @@||classtime.com^
+@@||customerly.io^
+@@||.customerly.io^
