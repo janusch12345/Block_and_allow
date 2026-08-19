@@ -613304,3 +613304,5 @@
 ||.ftf.live^
 ||*chatroulette*^
 ||*chatrandom*^
+||astra-ai.co^
+||.astra-ai.co^
