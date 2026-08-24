@@ -228,3 +228,5 @@
 @@||classtime.com^
 @@||customerly.io^
 @@||.customerly.io^
+@@||.kahoot.com^
+@@||kahoot.com^
