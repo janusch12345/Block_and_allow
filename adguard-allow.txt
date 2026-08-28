@@ -230,3 +230,5 @@
 @@||.customerly.io^
 @@||.kahoot.com^
 @@||kahoot.com^
+@@||lamapoll.de^
+@@||.lamapoll.de^
