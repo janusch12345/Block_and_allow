@@ -232,3 +232,5 @@
 @@||kahoot.com^
 @@||lamapoll.de^
 @@||.lamapoll.de^
+@@||lamapoll.io^
+@@||.lamapoll.io^
