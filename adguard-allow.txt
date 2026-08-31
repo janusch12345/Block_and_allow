@@ -234,3 +234,5 @@
 @@||.lamapoll.de^
 @@||lamapoll.io^
 @@||.lamapoll.io^
+@@||.handball360.net^
+@@||handball360.net^
