@@ -242,3 +242,7 @@
 @@||mathekars.de^
 @@||meinkoerpergehoertmir.de^
 @@||.meinkoerpergehoertmir.de^
+@@||.uwaterloo.ca^
+@@||uwaterloo.ca^
+@@||uni-wuppertal.de^
+@@||.uni-wuppertal.de^
