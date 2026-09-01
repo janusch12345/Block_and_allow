@@ -236,3 +236,5 @@
 @@||.lamapoll.io^
 @@||.handball360.net^
 @@||handball360.net^
+@@||mathsbot.com^
+@@||.mathsbot.com^
