@@ -238,3 +238,5 @@
 @@||handball360.net^
 @@||mathsbot.com^
 @@||.mathsbot.com^
+@@||.mathekars.de^
+@@||mathekars.de^
