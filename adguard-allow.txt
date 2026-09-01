@@ -240,3 +240,5 @@
 @@||.mathsbot.com^
 @@||.mathekars.de^
 @@||mathekars.de^
+@@||meinkoerpergehoertmir.de^
+@@||.meinkoerpergehoertmir.de^
