@@ -264,3 +264,11 @@
 @@||handball4all.de^
 @@||handball-rp.de^
 @@||misquad.de^
+@@||duden.de^
+@@||oxfordlearnersdictionaries.com^
+@@||pons.com^
+@@||pons.de^
+@@||.duden.de^
+@@||.oxfordlearnersdictionaries.com^
+@@||.pons.com^
+@@||.pons.de^
