@@ -613310,6 +613310,9 @@
 ||quackprep.org^
 ||.tocaboca.com^
 ||tocaboca.com^
-nordcurrent.com
-mgjinx.com
-mangafire.to
+||nordcurrent.com^
+||mgjinx.com^
+||mangafire.to^
+||.nordcurrent.com^
+||.mgjinx.com^
+||.mangafire.to^
