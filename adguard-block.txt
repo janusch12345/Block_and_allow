@@ -613318,4 +613318,10 @@
 ||.mangafire.to^
 ||vpn.mozilla.org^
 ||freevpnapp.co.uk^
-||.freevpnapp.co.uk
+||.freevpnapp.co.uk^
+||proton.me^
+||cyberghostvpn.com^
+||.nakavpn.com^
+||.proton.me^
+||.cyberghostvpn.com^
+||nakavpn.com^
