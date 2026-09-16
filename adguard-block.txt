@@ -613317,3 +613317,5 @@
 ||.mgjinx.com^
 ||.mangafire.to^
 ||vpn.mozilla.org^
+||freevpnapp.co.uk^
+||.freevpnapp.co.uk
