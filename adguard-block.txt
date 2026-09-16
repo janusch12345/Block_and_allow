@@ -613316,3 +613316,4 @@
 ||.nordcurrent.com^
 ||.mgjinx.com^
 ||.mangafire.to^
+||vpn.mozilla.org^
