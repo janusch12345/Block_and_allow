@@ -613329,3 +613329,7 @@
 ||.thefreevpn.org^
 ||.protonvpn.com^
 ||protonvpn.com^
+||urban-vpn.com^
+||.urban-vpn.com^
+||wlvpn.com^
+||.wlvpn.com^
