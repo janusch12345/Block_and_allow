@@ -613327,3 +613327,5 @@
 ||nakavpn.com^
 ||thefreevpn.org^
 ||.thefreevpn.org^
+||.protonvpn.com^
+||protonvpn.com^
