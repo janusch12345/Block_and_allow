@@ -613325,3 +613325,5 @@
 ||.proton.me^
 ||.cyberghostvpn.com^
 ||nakavpn.com^
+||thefreevpn.org^
+||.thefreevpn.org^
