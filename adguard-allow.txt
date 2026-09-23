@@ -328,3 +328,7 @@
 @@||.walkme.com^
 @@||.nuvixa.com^
 @@||.personify.live^
+@@||classroomscreen.com^
+@@||.classroomscreen.com^
+@@||prowise.com^
+@@||.prowise.com^
