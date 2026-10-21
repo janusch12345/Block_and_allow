@@ -337,3 +337,7 @@
 @@||.webinargeek.com^
 @@||.stadtradeln.de^
 @@||stadtradeln.de^
+@@||casio-education.eu^
+@@||classpad.net^
+@@||.casio-education.eu^
+@@||.classpad.net
