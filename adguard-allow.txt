@@ -340,4 +340,6 @@
 @@||casio-education.eu^
 @@||classpad.net^
 @@||.casio-education.eu^
-@@||.classpad.net
+@@||.classpad.net^
+@@||tipp10.com^
+@@||.tipp10.com^
