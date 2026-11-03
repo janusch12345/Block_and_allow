@@ -343,3 +343,11 @@
 @@||.classpad.net^
 @@||tipp10.com^
 @@||.tipp10.com^
+@@||www.ncbi.nlm.nih.gov^
+@@||ncbi.nlm.nih.gov^
+@@||blast.ncbi.nlm.nih.gov^
+@@||eutils.ncbi.nlm.nih.gov^
+@@||megasoftware.net^
+@@||timetree.org^
+@@||.megasoftware.net^
+@@||.nlm.nih.gov^
